@@ -1,7 +1,7 @@
 # TripleTen-Projects
 
 Data Science projects i´ve done for TripleTen bootcamp.
-| Command | Description |
+| Project | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Music Taste | Project 1: Basic Python - where it all began |
+| Online Platform Orders | Project 2: Data Manipulation |
