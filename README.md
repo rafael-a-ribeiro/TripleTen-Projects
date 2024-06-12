@@ -1,15 +1,9 @@
-# TripleTen-Projects
+# Descrição do projeto
 
-Data Science projects i´ve done for TripleTen bootcamp.
-| Project | Description | Libraries | 
-| --- | --- | --- |
-| [Music Taste](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-1) | Project 1: Basic Python - where it all began | pandas |
-| [Online Platform Orders](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-2) | Project 2: Data Manipulation | pandas, matplotlib, numpy |
-| [Best Carrier Plan](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-3) | Project 3: Statistical Data Analysis | pandas, matplotlib, numpy, scipy |
-| [Car Offers](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-4) | Project 4: Software Development Tools | pandas, plotly, numpy, streamlit |
-| [Game Sales](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-5) | Project 5: Integrated Project 1 | pandas, matplotlib, numpy, scipy, seaborn |
-| [Weather Impact on Trips](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-6) | Project 6: Data Collection and Storage | pandas, matplotlib, numpy |
-| [Plan Recomendation](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-7) | Project 7: Introduction to Machine Learning | pandas, sklearn |
-| [Leaving Bank Clients](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-8) | Project 8: Supervised Learning | pandas, matplotlib, numpy, sklearn |
-| [New Oil Wells](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-9) | Project 9: Machine Learning for Business | pandas, matplotlib, numpy, sklearn |
-| [Gold Recovery Calculation](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-10) | Project 10: Integrated Project 2 | pandas, matplotlib, numpy, sklearn |
+A companhia de seguros Proteja Seu Amanhã quer resolver algumas tarefas com a ajuda de aprendizado de máquina e você precisa avaliar a possibilidade de fazê-lo.
+
+Tarefa 1: Encontrar clientes semelhantes a um determinado cliente. Isso vai ajudar os agentes da empresa com tarefas de marketing.
+Tarefa 2: Predizer se um novo cliente provavelmente receberá um pagamento de seguro. Um modelo de predição pode ser melhor do que um modelo dummy?
+Tarefa 3: Predizer o número de pagamentos de seguro que um novo cliente provavelmente receberá usando um modelo de regressão linear.
+Tarefa 4: Proteger os dados pessoais dos clientes sem prejudicar o modelo da tarefa anterior.
+É necessário desenvolver um algoritmo de transformação de dados que tornaria difícil recuperar informações pessoais se os dados caíssem nas mãos erradas. Isso é chamado de mascaramento de dados ou ofuscação de dados. Mas os dados devem ser protegidos de forma que a qualidade dos modelos de aprendizado de máquina não piore. Você não precisa escolher o melhor modelo, só prove que o algoritmo funciona corretamente.
