@@ -1,15 +1,11 @@
-# TripleTen-Projects
+# Descrição do Projeto
 
-Data Science projects i´ve done for TripleTen bootcamp.
-| Project | Description | Libraries | 
-| --- | --- | --- |
-| [Music Taste](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-1) | Project 1: Basic Python - where it all began | pandas |
-| [Online Platform Orders](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-2) | Project 2: Data Manipulation | pandas, matplotlib, numpy |
-| [Best Carrier Plan](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-3) | Project 3: Statistical Data Analysis | pandas, matplotlib, numpy, scipy |
-| [Car Offers](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-4) | Project 4: Software Development Tools | pandas, plotly, numpy, streamlit |
-| [Game Sales](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-5) | Project 5: Integrated Project 1 | pandas, matplotlib, numpy, scipy, seaborn |
-| [Weather Impact on Trips](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-6) | Project 6: Data Collection and Storage | pandas, matplotlib, numpy |
-| [Plan Recomendation](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-7) | Project 7: Introduction to Machine Learning | pandas, sklearn |
-| [Leaving Bank Clients](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-8) | Project 8: Supervised Learning | pandas, matplotlib, numpy, sklearn |
-| [New Oil Wells](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-9) | Project 9: Machine Learning for Business | pandas, matplotlib, numpy, sklearn |
-| [Gold Recovery Calculation](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-10) | Project 10: Integrated Project 2 | pandas, matplotlib, numpy, sklearn |
+A empresa Taxi Corrida Maluca coletou dados históricos sobre pedidos de táxi nos aeroportos. Para atrair mais motoristas durante o horário de pico, precisamos prever a quantidade de pedidos de táxi para a próxima hora. Construa um modelo para tal predição.
+
+A métrica REQM no conjunto de teste não deve ser superior a 48.
+
+Instruções do projeto
+Faça download dos dados e faça uma nova amostragem deles de forma que cada ponto dos dados originais fique dentro de intervalos de uma hora.
+Analise os dados.
+Treine diferentes modelos com diferentes hiperparâmetros. A amostra de teste deve ser 10% do conjunto de dados inicial.
+Teste os dados usando a amostra de teste e forneça uma conclusão.
