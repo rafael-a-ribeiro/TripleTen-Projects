@@ -1,4 +1,4 @@
-# TripleTen-Projects
+# Descrição do Projeto
 
 A rede de supermercados Boa Semente gostaria de explorar se a Ciência de Dados pode ajudá-los a seguir às leis do álcool, garantindo que eles não vendam álcool para menores de idade. Você é solicitado para realizar essa avaliação, portanto, ao começar a trabalhar, lembre-se do seguinte:
 
