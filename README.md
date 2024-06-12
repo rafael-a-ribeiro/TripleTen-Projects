@@ -13,3 +13,8 @@ Data Science projects i´ve done for TripleTen bootcamp.
 | [Leaving Bank Clients](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-8) | Project 8: Supervised Learning | pandas, matplotlib, numpy, sklearn |
 | [New Oil Wells](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-9) | Project 9: Machine Learning for Business | pandas, matplotlib, numpy, sklearn |
 | [Gold Recovery Calculation](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-10) | Project 10: Integrated Project 2 | pandas, matplotlib, numpy, sklearn |
+| [Security Sales](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-11) | Project 11: Linear Algebra | pandas, seaborn, numpy, sklearn |
+| [Cars Sale Price](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-12) | Project 12: Numerical Methods | pandas, numpy, sklearn, catboost, lightgbm |
+| [Taxi Requests Prediction](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-13) | Project 13: Time Series | pandas, matplotlib, seaborn, numpy, sklearn, catboost, lightgbm, xgboost |
+| [Movie Review](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-14) | Project 14: Automated Text Classification | pandas, matplotlib, seaborn, numpy, ntlk, tqdm |
+| [Age Recognition](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-15) | Project 15: Computer Vision | pandas, matplotlib, tensorflow |
