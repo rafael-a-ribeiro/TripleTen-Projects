@@ -1,15 +1,17 @@
 # TripleTen-Projects
 
-Data Science projects i´ve done for TripleTen bootcamp.
-| Project | Description | Libraries | 
-| --- | --- | --- |
-| [Music Taste](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-1) | Project 1: Basic Python - where it all began | pandas |
-| [Online Platform Orders](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-2) | Project 2: Data Manipulation | pandas, matplotlib, numpy |
-| [Best Carrier Plan](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-3) | Project 3: Statistical Data Analysis | pandas, matplotlib, numpy, scipy |
-| [Car Offers](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-4) | Project 4: Software Development Tools | pandas, plotly, numpy, streamlit |
-| [Game Sales](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-5) | Project 5: Integrated Project 1 | pandas, matplotlib, numpy, scipy, seaborn |
-| [Weather Impact on Trips](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-6) | Project 6: Data Collection and Storage | pandas, matplotlib, numpy |
-| [Plan Recomendation](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-7) | Project 7: Introduction to Machine Learning | pandas, sklearn |
-| [Leaving Bank Clients](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-8) | Project 8: Supervised Learning | pandas, matplotlib, numpy, sklearn |
-| [New Oil Wells](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-9) | Project 9: Machine Learning for Business | pandas, matplotlib, numpy, sklearn |
-| [Gold Recovery Calculation](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-10) | Project 10: Integrated Project 2 | pandas, matplotlib, numpy, sklearn |
+A rede de supermercados Boa Semente gostaria de explorar se a Ciência de Dados pode ajudá-los a seguir às leis do álcool, garantindo que eles não vendam álcool para menores de idade. Você é solicitado para realizar essa avaliação, portanto, ao começar a trabalhar, lembre-se do seguinte:
+
+As lojas estão equipadas com câmeras na área de checkout que são acionadas quando uma pessoa está comprando álcool
+Métodos de visão computacional podem ser usados para determinar a idade de uma pessoa a partir de uma foto
+A tarefa então é construir e avaliar um modelo para verificar a idade das pessoas
+Para começar a trabalhar na tarefa, você terá um conjunto de fotografias de pessoas com suas idades indicadas.
+
+Instruções do Projeto
+Faça um teste para verificar sua compreensão do enunciado do projeto.
+Realize uma análise exploratória de dados para obter uma impressão geral do conjunto de dados.
+Treine e avalie o modelo (precisa ser feito na plataforma GPU).
+Combine seu código, saída e descobertas (dos pontos anteriores) no notebook Jupyter final.
+Tire as conclusões da avaliação do modelo, adicione-as ao caderno.
+Os revisores do projeto revisarão seu caderno final.
+
