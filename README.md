@@ -1,20 +1,22 @@
-# TripleTen-Projects
+# Descrição do Projeto
 
-Data Science projects i´ve done for TripleTen bootcamp.
-| Project | Description | Libraries | 
-| --- | --- | --- |
-| [Music Taste](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-1) | Project 1: Basic Python - where it all began | pandas |
-| [Online Platform Orders](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-2) | Project 2: Data Manipulation | pandas, matplotlib, numpy |
-| [Best Carrier Plan](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-3) | Project 3: Statistical Data Analysis | pandas, matplotlib, numpy, scipy |
-| [Car Offers](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-4) | Project 4: Software Development Tools | pandas, plotly, numpy, streamlit |
-| [Game Sales](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-5) | Project 5: Integrated Project 1 | pandas, matplotlib, numpy, scipy, seaborn |
-| [Weather Impact on Trips](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-6) | Project 6: Data Collection and Storage | pandas, matplotlib, numpy |
-| [Plan Recomendation](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-7) | Project 7: Introduction to Machine Learning | pandas, sklearn |
-| [Leaving Bank Clients](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-8) | Project 8: Supervised Learning | pandas, matplotlib, numpy, sklearn |
-| [New Oil Wells](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-9) | Project 9: Machine Learning for Business | pandas, matplotlib, numpy, sklearn |
-| [Gold Recovery Calculation](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-10) | Project 10: Integrated Project 2 | pandas, matplotlib, numpy, sklearn |
-| [Security Sales](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-11) | Project 11: Linear Algebra | pandas, seaborn, numpy, sklearn |
-| [Cars Sale Price](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-12) | Project 12: Numerical Methods | pandas, numpy, sklearn, catboost, lightgbm |
-| [Taxi Requests Prediction](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-13) | Project 13: Time Series | pandas, matplotlib, seaborn, numpy, sklearn, catboost, lightgbm, xgboost |
-| [Movie Review](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-14) | Project 14: Automated Text Classification | pandas, matplotlib, seaborn, numpy, ntlk, tqdm |
-| [Age Recognition](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-15) | Project 15: Computer Vision | pandas, matplotlib, tensorflow |
+Somos uma empresa de telecomunicações, estamos com uma taxa de _churn_ indesejável. Com base nos dados informados temos que criar um modelo para nos informar quais os clientes mais propensos ao _churn_.
+
+**Abordagem** 
+Para isso dividiremos o problema em 3 partes:<br>
+1. Entendimento dos dados:
+    - Planejar como o problema será abordado
+    - Limpar os dados
+    - EDA
+2. Modelagem:
+    - Definição de métricas de avaliação
+    - Feature Engineering
+    - Contrução pipeline treinamento / avaliação dos modelos
+    - Tuning & Model Selection
+3. Relatporio Final:
+    - Análise do modelo de forma extensiva. Quais seus pontos fortes e fracos
+    - Responder às seguintes perguntas:<br>
+        1) Quais os passos do plano foram executados e quais foram pulados (explique o por quê)?<br>
+        2) Quais as dificuldades você encontrou e como conseguiu resolvê-las?<br>
+        3) Quais foram algumas das etapas principais na resolução da tarefa?<br>
+        4) Qual é o seu modelo final e qual pontuação de qualidade ele tem?<br>
