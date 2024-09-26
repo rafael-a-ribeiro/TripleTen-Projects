@@ -18,3 +18,4 @@ Data Science projects i´ve done for TripleTen bootcamp.
 | [Taxi Requests Prediction](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-13) | Project 13: Time Series | pandas, matplotlib, seaborn, numpy, sklearn, catboost, lightgbm, xgboost |
 | [Movie Review](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-14) | Project 14: Automated Text Classification | pandas, matplotlib, seaborn, numpy, ntlk, tqdm |
 | [Age Recognition](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-15) | Project 15: Computer Vision | pandas, matplotlib, tensorflow |
+| [Telecom Churn Clients](https://github.com/rafael-a-ribeiro/TripleTen-Projects/tree/Project-16) | Project 16: Final Project | pandas, matplotlib, seaborn, sklearn, xgboost, lightgbm, catboost, shap, SMOTE  |
